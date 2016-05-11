@@ -3,7 +3,7 @@
     "description": "Allow to search, order, sort and paginate quickly any request by extending Eloquent Model option",
     "type": "library",
     "require": {
-        "laravel/framework": "5.2"
+        "laravel/framework": "5.*"
     },
     "license": "GPL-3.0+",
     "authors": [
@@ -12,5 +12,9 @@
             "email": "jeremy@dillenbourg.be"
         }
     ],
-    "minimum-stability": "stable"
+    "support": {
+        "issues": "https://github.com/jeremy379/searchExtension/issues",
+        "source": "https://github.com/jeremy379/searchExtension"
+    },
+    "minimum-stability": "dev"
 }
