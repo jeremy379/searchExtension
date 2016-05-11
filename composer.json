@@ -1,5 +1,5 @@
 {
-    "name": "jeremy379/eloquent-search",
+    "name": "jeremy379/searchExtension",
     "description": "Allow to search, order, sort and paginate quickly any request by extending Eloquent Model option",
     "type": "library",
     "require": {
