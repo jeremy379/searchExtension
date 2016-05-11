@@ -1,0 +1,16 @@
+{
+    "name": "jeremy379/eloquent-search",
+    "description": "Allow to search, order, sort and paginate quickly any request by extending Eloquent Model option",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.2"
+    },
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Dillenbourg Jérémy",
+            "email": "jeremy@dillenbourg.be"
+        }
+    ],
+    "minimum-stability": "stable"
+}
